@@ -3,7 +3,7 @@
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
 - <b>building a sales prediction model)</b>
-  - [sales prediction model](https://salespreediction.github.io/jscypherdriscoll/sales prediction model)
+  - [sales prediction model](https://salespreediction.github.io/scypherdriscoll/sales prediction model)
 
 
 
