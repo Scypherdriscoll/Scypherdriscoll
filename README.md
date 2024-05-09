@@ -3,7 +3,7 @@
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
 - <b>building a sales prediction model)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [sales prediction model](https://salespreediction.github.io/jscypherdriscoll/sales prediction model)
 
 
 
