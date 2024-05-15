@@ -2,8 +2,10 @@
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
-- <b>building a sales prediction model)</b>
+- <b>building a sales prediction model</b>
   - [sales prediction model](https://github.com/Scypherdriscoll/Ejombi.github.io)
+- <b>Analysing netflix dataset</b>
+  - [Netflix dataset analysis](https://github.com/Scypherdriscoll/netflix)
 
 
 
