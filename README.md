@@ -6,6 +6,8 @@
   - [sales prediction model](https://github.com/Scypherdriscoll/Ejombi.github.io)
 - <b>Analysing netflix dataset</b>
   - [Netflix dataset analysis](https://github.com/Scypherdriscoll/netflix)
+- <b>HR ANALYTICS</b>
+  - [HR dataset analysis](https://github.com/Scypherdriscoll/HR-ANALYTICS.GITHUB)
 
 
 
